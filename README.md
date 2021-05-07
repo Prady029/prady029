@@ -12,9 +12,9 @@
 <p align="center">
   <a href="https://twitter.com/prady029">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Prady029?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <a href="https://dev.to/prady029"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://github.com/prady029">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Prady029?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://dev.to/prady029"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://www.buymeacoffee.com/prady029"><img alt="BMAC" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=bmac&logoColor=white"/></a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=prady029.prady029">
      <img alt="visitors" title="aliens looking at my codes"src="https://shields-io-visitor-counter.herokuapp.com/badge?page=prady029.prady029&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge""/></a>
@@ -80,9 +80,9 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch%20-%23FF6F00.svg?logo=Pytorch&logoColor=white"></a>
+       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+UHlUb3JjaCBpY29uPC90aXRsZT48cGF0aCBkPSJNMTIuMDA1IDBMNC45NTIgNy4wNTNhOS44NjUgOS44NjUgMCAwMDAgMTQuMDIyIDkuODY2IDkuODY2IDAgMDAxNC4wMjIgMGMzLjk4NC0zLjkgMy45ODYtMTAuMjA1LjA4NS0xNC4wMjNsLTEuNzQ0IDEuNzQzYzIuOTA0IDIuOTA1IDIuOTA0IDcuNjM0IDAgMTAuNTM4cy03LjYzNCAyLjkwNC0xMC41MzggMC0yLjkwNC03LjYzNCAwLTEwLjUzOGw0LjY0Ny00LjY0Ni41ODItLjY2NXptMy41NjggMy44OTlhMS4zMjcgMS4zMjcgMCAwMC0xLjMyNyAxLjMyNyAxLjMyNyAxLjMyNyAwIDAwMS4zMjcgMS4zMjhBMS4zMjcgMS4zMjcgMCAwMDE2LjkgNS4yMjYgMS4zMjcgMS4zMjcgMCAwMDE1LjU3MyAzLjl6Ii8+PC9zdmc+"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy%20-%233B5526.svg?logo=sympy&logoColor=white"></a>
@@ -106,17 +106,15 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 Github stats
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pradyumna's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=prady029&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pradyumna's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=prady029&langs_count=8&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pradyumna's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=prady029&langs_count=8&theme=synthwave&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+<br/>
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <br/>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=prady029&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+ <br/>
+  
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pradyumna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prady029&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
