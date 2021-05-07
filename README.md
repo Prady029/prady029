@@ -107,13 +107,14 @@
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br/>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pradyumna's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=prady029&langs_count=8&theme=synthwave&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 <br/>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  <br/>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=prady029&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
  <br/>
+  </p>
   
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
