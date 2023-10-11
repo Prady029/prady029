@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradyumna Kumar Sahoo</h1>
+[<h1 align="center">Hi 👋, I'm Pradyumna Kumar Sahoo</h1>
 <h3 align="center">A data scientist specialising in developing Computer Vision and NLP products..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prady029&label=Profile%20views&color=0e75b6&style=flat" alt="prady029" /> </p>
@@ -40,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prady029&show_icons=true&locale=en" alt="prady029" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prady029&" alt="prady029" /></p>
+](https://github.com/Prady029)https://github.com/Prady029
