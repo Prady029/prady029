@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LLM based RAG pipelines for Insurance Docs QnA.<br>👯 I’m looking to collaborate on LLM based training and inference pipeline designs..<br>🤝 I’m looking for help with my DSA 101 repo [help me add great references]<br>🌱 I’m currently learning LLMs fine-tuning, data curation and ML-Sys designs.<br>💬 Ask me about anything on ML, Pipeline Orchestrations..<br>⚡ Fun fact: I switched from Physics to data science on a whim and it paid off..
+🔭 I’m currently working on LLM based RAG pipelines for Docs QnA using Knowledge Graph.<br>👯 I’m looking to collaborate on LLM based training and inference pipeline designs..<br>🤝 I’m looking for help with my DSA 101 repo [help me add great references]<br>🌱 I’m currently learning LLMs fine-tuning, data curation and ML-Sys designs.<br>💬 Ask me about anything on ML, Pipeline Orchestrations..<br>⚡ Fun fact: I switched from Physics to data science on a whim and it paid off..
 
 
 ## 🌐 Socials:
