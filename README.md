@@ -1,27 +1,193 @@
-# 💫 About Me:
-🔭 I’m currently working on LLM based RAG pipelines for Docs QnA using Knowledge Graph.<br>👯 I’m looking to collaborate on LLM based training and inference pipeline designs..<br>🤝 I’m looking for help with my DSA 101 repo [help me add great references]<br>🌱 I’m currently learning LLMs fine-tuning, data curation and ML-Sys designs.<br>💬 Ask me about anything on ML, Pipeline Orchestrations..<br>⚡ Fun fact: I switched from Physics to data science on a whim and it paid off..
+# Hi, I'm Pradyumna Kumar Sahoo 👋
 
+**Senior Data Scientist | AI/ML Engineer | GenAI & Medical AI Specialist**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradyumna029) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/pradyumna029) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prady029) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/prady029) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prady029) 
+Impact-driven Data Scientist with **5+ years** of experience building production-grade AI/ML systems across Medical and Finance domains for Computer Vision, Audio, and Generative AI use-cases. Proven track record in architecting real-time audio chatbots, Knowledge-graph based GraphRAG pipelines, fine-tuning large language models, developing multimodal agents, and leading cross-functional teams.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=plastic&logo=prefect&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=plastic&logo=Apache%20Flink&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=plastic&logo=grafana&logoColor=white&color=%23F46800) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=plastic&logo=apachekafka&logoColor=white&color=%23231F20) ![CIRCLECI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=plastic&logo=CIRCLECI&logoColor=white&color=%23343434) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=plastic&logo=prometheus&logoColor=white&color=%23E6522C) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prady029&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prady029&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prady029&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prady029&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prady029&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+**Currently:** Data Scientist @ Mondee Pvt. Ltd. | **Open to:** Senior AI/ML roles, GenAI research collaborations, and consulting opportunities
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prady029&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📍 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [pradyumna.sahoo@outlook.in](mailto:pradyumna.sahoo@outlook.in) |
+| 🔗 Portfolio | [prady029.github.io](https://prady029.github.io) |
+| 📄 Resume | [Download PDF](https://prady029.github.io/Pradyumna_Data_Scientist_AI_ML_5YoE.pdf) |
+| 🐙 GitHub | [@Prady029](https://github.com/Prady029) |
+| 💼 LinkedIn | [@prady029](https://linkedin.com/in/prady029) |
+| ✍️ Medium | [@prady029](https://medium.com/@prady029) |
+| 🐦 Twitter/X | [@prady029](https://twitter.com/prady029) |
+| ✈️ Telegram | [@prady029](https://t.me/prady029) |
+
+---
+
+## 🧠 Skills & Technologies
+
+### 🨠 **LLM Training & Inference**
+Full Fine-tuning • PEFT / LoRA / QLoRA • Instruction Tuning • RLHF / DPO • Mixed-precision (bf16/fp16) • Gradient Checkpointing • vLLM • Quantization (GPTQ / AWQ / bitsandbytes) • HuggingFace Transformers • DSPy • Unsloth
+
+### 🕸️ **Agentic & RAG Systems**
+LangChain • LangGraph • LiveKit • Tool-use / Function Calling • Multi-agent Orchestration • Multimodal RAG • Model Context Protocol (MCP) • Google Agent Development Kit • Prompt Engineering
+
+### 👁️ **Knowledge Graphs & Vector Search**
+Neo4j • AWS Neptune • Qdrant • LanceDB • Knowledge Graph Construction • Agentic KG • RxNorm API • PubMed API • Drug Interaction Systems
+
+### ⚙️ **Computer Vision & NLP**
+PyTorch • Detectron2 • YOLOv8 • OpenCV • GradCAM++ • GAN / Synthetic Data • Instance Segmentation • SpaCy • NLTK • ASR Fine-tuning • SWIN2SR • NAFNet
+
+### ☁️ **MLOps & Infrastructure**
+Weights & Biases • MLflow • Docker • FastAPI • Apache Airflow • Apache Spark (Databricks) • ETL Pipeline Design • Process Mining • CI/CD for ML • Git
+
+### ☁️ **Cloud & Databases**
+AWS Bedrock • AWS Neptune • AWS S3 / Lambda / EC2 • AWS OpenSearch • GCP Vertex AI • Azure ML • PostgreSQL • MongoDB • SQLite • Python • SQL • Bash
+
+---
+
+## 💼 Work Experience
+
+### **Data Scientist**
+**Mondee Pvt. Ltd.** | Hyderabad, India | August 2025 – Present
+
+- Architected a medical-grade GraphRAG audio chatbot for clinical decision support system (CDSS) deployed across Surekha Hospital Chain and BhaktiVedant Hospital, constructing structured knowledge graphs from medical textbooks using NER and Neo4J
+- Engineered a drug–drug interaction checker and dosage scheduler agent served through Model Context Protocol (MCP), integrating real-time data from RxNorm and PubMed APIs
+- Led end-to-end fine-tuning and serving of Medgemma-27b-text-it for domain-specific clinical NLP tasks using Unsloth and vLLM, coordinating with research scholars from IIT Madras and IIT Hyderabad
+- Directed large-scale Speech-to-Text (STT/ASR) data preparation and multimodal fine-tuning of gemma-3n-e2b-it via LoRA, building a medical voice agent for real-time clinical transcription
+
+**Tags:** Medical GraphRAG • Clinical NLP • LLM Fine-tuning • Voice AI • Medgemma-27b • MCP
+
+---
+
+### **Senior Member Technical (AI/ML)**
+**ADP India Pvt. Ltd.** | Hyderabad, India | December 2023 – July 2025
+
+- Designed and deployed a Knowledge-Graph based RAG pipeline on AWS Neptune & Bedrock orchestrated via LangGraph, enhancing financial data processing accuracy (recognized as runner-up in ADP Global Hackathon 2024)
+- Developed an intelligent Process Mining Chatbot for Global Payroll Services using Microsoft Power Automate and Databricks to optimize payment workflows across 73 payroll cycles per client
+- Engineered an agentic assistant using Google Agent Development Kit and AWS OpenSearch for context-aware email drafting and meeting scheduling, saving 24 hours per user per month
+- Built a scalable QR code detection and decoding pipeline with fine-tuned YOLOv8 and OpenCV, sanitizing financial documents prior to downstream processing across millions of payroll documents
+- Developed an Indic PII detection and redaction system for financial regulatory compliance using fine-tuned NER models and IndicNLP
+
+**Tags:** AWS Neptune • LangGraph • Process Mining • Agentic AI • Finance AI • YOLOv8 • Indic NLP
+
+---
+
+### **Junior Data Scientist**
+**Claim Genius Pvt. Ltd.** | Remote, India | June 2021 – December 2023
+
+- Built a high-performance Instance Segmentation pipeline using Detectron2 served via FastAPI for vehicle parts identification, achieving 95% mAP and accelerating assessment throughput by 26%
+- Engineered an ML pipeline failure tracing system using MLflow to monitor inference-time distributions and surface root-cause analysis, reducing manual diagnosis time by 30%
+- Deployed an image super-resolution and denoising ensemble combining SWIN2SR and NAFNet models, reducing model failures by 16% and improving downstream accuracy by 12%
+- Built an automatic labeling error-detection service using Scikit-learn confidence scoring and trained PyTorch GAN models for synthetic image generation to resolve class imbalance
+- Designed a geometric flat-tire detection approach with zero curated data and boosted vehicle damage severity classification by 3% through a fusion ensemble combining PyTorch CNN with XGBoost
+
+**Tags:** Detectron2 • FastAPI • GradCAM++ • GAN • Instance Segmentation • MLflow • XGBoost
+
+---
+
+## 🎓 Education & Certifications
+
+### **Certifications**
+- 🕸️ **Agentic Knowledge Graph Construction** — DeepLearning.AI × Neo4j (Aug 2025)
+- 🗃️ **Neo4j Fundamentals** — Neo4j GraphAcademy (Jul 2025)
+- 🧠 **Pretraining LLMs** — DeepLearning.AI × Upstage (Feb 2025)
+- 🔧 **TensorFlow Developer Certificate** — Coursera (2023)
+- 🧠 **Deep Learning Specialization** — Coursera (2022)
+- ✨ **An Introduction To Practical Deep Learning** — Intel - Coursera (2022)
+- 💬 **Technical Support Fundamentals** — Google - Coursera (2021)
+
+### **Education**
+- **M.Sc. Computer Science (Big Data Analytics)** — Central University of Rajasthan, Kishangarh, India
+- **Integrated B.Sc. B.Ed. (Physical Sciences and Education)** — Regional Institute of Education (NCERT), Bhubaneswar, India
+
+---
+
+## 🔬 Featured Projects
+
+### [🌟 LLSF: Learning Label-Specific Features](https://github.com/Prady029/LLSF-Learning-Label-Specific-Features-for-Multi-Label-Classifcation)
+Research paper implementation for improving multi-label classification on imbalanced datasets using the Label-Specific Feature learning algorithm.
+**Tags:** Multi-label • Feature Learning • Class Imbalance • Python
+
+### [🧬 LLSF-DL MLSMOTE Hybrid](https://github.com/Prady029/LLSF_DL-MLSMOTE-Hybrid-for-handling-tail-labels)
+Master's thesis — hybrid deep learning approach combining Label-Specific Feature learning with MLSMOTE to address tail-labels in multi-label classification.
+**Tags:** Multi-label • Deep Learning • SMOTE • Thesis
+
+### [🏋️ LIFT: Multi-Label Learning](https://github.com/Prady029/LIFT-MultiLabel-Learning-with-Label-Specific-Features)
+Implementation of the LIFT algorithm for label-specific feature transformations to improve multi-label classification performance.
+**Tags:** Multi-label • Feature Learning • Classification • Python
+
+### [📚 NCERT AI Teacher Assistant](https://github.com/Prady029/NCERT-AI-Teacher-Assistant)
+AI-powered assistant for teachers that automatically creates lesson plans, drafts question sets, and supports classroom preparation workflows.
+**Tags:** GenAI • Education • AI • LLM • Agentic • Python
+
+### [📊 Multi-label Datasets](https://github.com/Prady029/Multillabel-Datasets)
+Curated collection of multi-label classification benchmarks used across research experiments on label imbalance, feature learning, and SMOTE-based augmentation.
+**Tags:** Dataset • Multi-label • Research • Python
+
+### [🔀 Fuzzy Computing Programs](https://github.com/Prady029/Fuzzy_programs)
+Implementations of fuzzy sets, fuzzy logic inference systems, and fuzzy control applications from the Fuzzy Computing course at CURAJ.
+**Tags:** Fuzzy Logic • Control Systems • Academic • Jupyter
+
+### [🌱 Early Days of Machine Learning](https://github.com/Prady029/My-early-days-of-machine-learning)
+Collection of ML algorithm implementations from 2018 — supervised learning, unsupervised learning, and regression techniques built from first principles.
+**Tags:** Machine Learning • Scikit-learn • Foundations • Jupyter
+
+### [🧩 DSA 101](https://github.com/Prady029/DSA_101)
+Ongoing journey through Data Structures and Algorithms — curated problem sets, solutions, and notes in Python.
+**Tags:** DSA • Python • Problem Solving
+
+**[→ View All Repositories on GitHub](https://github.com/Prady029)**
+
+---
+
+## ✍️ Latest Articles
+
+Deep-dives into ML research, audio source separation, and multilingual NLP published on Medium and Analytics Drift.
+
+- [Salesforce Uses AWS Textract For Intelligent Document Automation](https://analyticsdrift.com/salesforce-uses-aws-textract-for-intelligent-document-automation/)
+- [Extracting Vocals And Instrumentals From Music The Deep Learning Way](https://analyticsdrift.com/extracting-vocals-and-instrumentals-from-music-the-deep-learning-way/)
+- [Microsoft Speller100: A Spell-Checker For Over 100 Languages](https://analyticsdrift.com/microsoft-speller100-a-spell-checker-for-over-100-languages/)
+- [A Deep Dive Into IBM Quantum Roadmap](https://analyticsdrift.com/a-deep-dive-into-ibm-quantum-roadmap/)
+- [IIT Kanpur Offers Free 8-Weeks Computational Science Course](https://analyticsdrift.com/iit-kanpur-offers-free-8-weeks-computational-science-course-enrollments-ends-15th-feb/)
+- [Dealing With Racially-Biased Hate-Speech Detection Models](https://analyticsdrift.com/dealing-with-racially-biased-hate-speech-detection-models/)
+
+**[→ View All 42+ Articles on Medium](https://medium.com/@prady029)**
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prady029&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prady029&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prady029&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prady029&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 🔭 Building production-grade GraphRAG pipelines for medical question-answering systems
+- 🧠 Fine-tuning domain-specific LLMs for healthcare and financial applications
+- 🤖 Developing multimodal agentic systems with voice and vision capabilities
+- 📚 Contributing to open-source ML/AI projects
+- ✍️ Writing technical deep-dives on LLMs, knowledge graphs, and production ML systems
+
+---
+
+## 💬 Let's Connect!
+
+I'm always excited to discuss:
+- **GenAI & LLM** applications and fine-tuning strategies
+- **Medical AI** and healthcare tech innovations
+- **Production ML/MLOps** architectures at scale
+- **Career opportunities** in AI/ML engineering
+- **Research collaborations** and open-source contributions
+
+Feel free to reach out on LinkedIn, Twitter, or email me directly!
+
+---
+
+**Built with ❤️ by Pradyumna Kumar Sahoo | [Portfolio](https://prady029.github.io) | [Resume](https://prady029.github.io/Pradyumna_Data_Scientist_AI_ML_5YoE.pdf)**
