@@ -1,6 +1,6 @@
 # Hi, I'm Pradyumna Kumar Sahoo 👋
 
-**Senior Data Scientist | AI/ML Engineer | GenAI & Medical AI Specialist**
+**Data Scientist | AI/ML Engineer | GenAI & Medical AI Specialist**
 
 Impact-driven Data Scientist with **5+ years** of experience building production-grade AI/ML systems across Medical and Finance domains for Computer Vision, Audio, and Generative AI use-cases. Proven track record in architecting real-time audio chatbots, Knowledge-graph based GraphRAG pipelines, fine-tuning large language models, developing multimodal agents, and leading cross-functional teams.
 
@@ -157,13 +157,7 @@ Deep-dives into ML research, audio source separation, and multilingual NLP publi
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prady029&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prady029&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prady029&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prady029&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
