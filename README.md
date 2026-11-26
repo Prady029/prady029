@@ -19,21 +19,21 @@ Building production GraphRAG systems, fine-tuned clinical LLMs, multimodal voice
 ### Experience
 
 **Data Scientist** · Mondee Pvt. Ltd. *(Aug 2025 – Present · Hyderabad)*
-- Architected a medical-grade **GraphRAG** audio chatbot for a Clinical Decision Support System (CDSS) deployed across Surekha Hospital Chain and BhaktiVedant Hospital using NER and **Neo4j** knowledge graphs.
-- Engineered a **drug–drug interaction** checker and dosage scheduler served over **Model Context Protocol (MCP)** integrating live RxNorm and PubMed APIs.
-- Led end-to-end fine-tuning and vLLM serving of `Medgemma-27b-text-it` via Unsloth in collaboration with **IIT Madras** and **IIT Hyderabad** scholars.
-- Directed clinical STT/ASR curation and LoRA multimodal fine-tuning of `gemma-3n-e2b-it` with TGI serving for real-time clinical transcription and Doctor's Note generation.
+- **Clinical Decision Support (GraphRAG):** Architected a GraphRAG audio chatbot enabling clinicians across Surekha Hospital Chain and BhaktiVedant Hospital to query alternative diagnoses and treatment paths; extracted structured medical entities (NER) into Neo4j and integrated retrieval via LangChain to eliminate unsupported answers through traceable source attribution.
+- **Medication Safety Agent (MCP):** Developed an autonomous medication-safety agent integrated into the clinical chat interface; queried live RxNorm and PubMed data to detect drug–drug interactions, formulated patient-specific dosage regimens, and deployed the tool as an MCP service accessible to internal agent fleets.
+- **Clinical LLM Fine-Tuning & Serving:** Coordinated with researchers from IIT Madras and IIT Hyderabad on dataset curation, training, and evaluation to fine-tune `MedGemma-27b-text-it` using Unsloth; served the model via vLLM for high-throughput clinical NLP inference.
+- **Clinical Voice Agent Pipeline:** Spearheaded an end-to-end medical voice workflow by establishing live clinical audio collection, expert annotation, and quality control; fine-tuned `gemma3n-e2b-it` using LoRA and served it on TGI to transcribe consultations in real time and generate Doctor’s Notes.
 
 **Senior Member Technical (AI/ML)** · ADP India Pvt. Ltd. *(Dec 2023 – Jul 2025 · Hyderabad)*
-- Deployed a Knowledge-Graph RAG pipeline on **AWS Neptune & Bedrock** orchestrated with LangGraph *(Runner-up, ADP Global Hackathon 2024)*.
-- Built a **Process Mining Chatbot** with Databricks and Power Automate streamlining workflows across an average of **73 payroll cycles** per client.
-- Shipped an org-wide agentic assistant on **Google ADK** and **AWS OpenSearch**, saving ~**24 hours/user/month**.
-- Deployed **YOLOv8 + OpenCV** QR sanitization and **IndicNLP** NER PII redaction across millions of payroll documents in **10+ Indic scripts**.
+- **Workplace Automation Assistant:** Built an autonomous workplace assistant using Google ADK and AWS OpenSearch that generates context-aware emails and schedules meetings against live calendars directly within chat; saved approximately 24 hours per user monthly across company-wide rollout to all ADP employees.
+- **Knowledge Graph-Grounded Financial RAG:** Coupled RAG pipelines with an AWS Neptune knowledge graph and Amazon Bedrock using LangGraph to resolve ambiguous queries, increasing financial response accuracy, reducing hallucinations, and earning Runner-up at the 2024 ADP Global Hackathon.
+- **Payroll Process Mining Chatbot:** Implemented a process-mining conversational agent using Databricks and Power Automate over millions of client records, automatically identifying payment bottlenecks and resolving issues across an average of 73 payroll cycles per client.
+- **Multilingual PII Redaction Pipeline:** Fine-tuned Transformer and spaCy NER models across 10+ Indic scripts to identify and redact sensitive personal and financial identifiers (including tax IDs, national IDs, account numbers, and names) in payroll and HR documents to ensure regulatory compliance.
 
 **Junior Data Scientist** · Claim Genius Pvt. Ltd. *(Jun 2021 – Dec 2023 · Remote)*
-- Delivered a **Detectron2 + FastAPI** instance segmentation pipeline reaching **95% mAP** (+26% throughput) with GradCAM++ interpretability.
-- Built automated **MLflow** inference drift and root-cause tracing pipelines (**-30%** diagnosis time) and a **SWIN2SR + NAFNet** restoration ensemble (**-16%** failures, **+12%** downstream accuracy).
-- Added confidence-based label auditing (saving 6 man-hours/engineer/sprint), PyTorch GAN rare-class augmentation, zero-shot OpenCV flat-tyre geometry detection, and a CNN + XGBoost severity ensemble (**+3%** per class).
+- **Automated Vehicle Damage Segmentation:** Engineered a vehicle-part segmentation pipeline using Detectron2 served via FastAPI, achieving 95% mAP and reducing damage assessment turnaround by 26%; integrated GradCAM++ heatmaps to provide transparent model interpretability for claims reviewers.
+- **Inference Monitoring & Root-Cause Tracing:** Built an MLflow-based inference monitoring system tracking test-time feature distributions, reducing model diagnosis and root-cause analysis time by 30%.
+- **Super-Resolution Image Preprocessing:** Mitigated production errors from compressed and low-quality photos by integrating a SWIN2SR and NAFNet super-resolution and denoising ensemble, reducing model failures by 16% and improving downstream task accuracy by 12%.
 
 ---
 
