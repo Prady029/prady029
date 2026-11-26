@@ -1,193 +1,110 @@
-# Hi, I'm Pradyumna Kumar Sahoo 👋
+<div align="center">
 
-**Senior Data Scientist | AI/ML Engineer | GenAI & Medical AI Specialist**
+# Pradyumna Kumar Sahoo
 
-Impact-driven Data Scientist with **5+ years** of experience building production-grade AI/ML systems across Medical and Finance domains for Computer Vision, Audio, and Generative AI use-cases. Proven track record in architecting real-time audio chatbots, Knowledge-graph based GraphRAG pipelines, fine-tuning large language models, developing multimodal agents, and leading cross-functional teams.
+**Senior Data Scientist · AI/ML Engineer · GenAI & Medical AI**
 
-**Currently:** Data Scientist @ Mondee Pvt. Ltd. | **Open to:** Senior AI/ML roles, GenAI research collaborations, and consulting opportunities
+Building production GraphRAG systems, fine-tuned clinical LLMs, multimodal voice agents, and computer vision pipelines.
 
----
+<p>
+  <a href="https://prady029.github.io"><img src="https://img.shields.io/badge/Portfolio-prady029.github.io-0e7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://prady029.github.io/Music_Visualiser/"><img src="https://img.shields.io/badge/Live_App-Music_Visualiser-0f766e?style=flat-square&logo=audiomack&logoColor=white" alt="Music Visualiser" /></a>
+  <a href="https://linkedin.com/in/prady029"><img src="https://img.shields.io/badge/LinkedIn-prady029-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@prady029"><img src="https://img.shields.io/badge/Medium-@prady029-12100e?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://prady029.github.io/Pradyumna_Data_Scientist_AI_ML_5YoE.pdf"><img src="https://img.shields.io/badge/Resume-PDF-4338ca?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:pradyumna.sahoo@outlook.in"><img src="https://img.shields.io/badge/Email-pradyumna.sahoo%40outlook.in-334155?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+</p>
 
-## 📍 Connect With Me
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [pradyumna.sahoo@outlook.in](mailto:pradyumna.sahoo@outlook.in) |
-| 🔗 Portfolio | [prady029.github.io](https://prady029.github.io) |
-| 📄 Resume | [Download PDF](https://prady029.github.io/Pradyumna_Data_Scientist_AI_ML_5YoE.pdf) |
-| 🐙 GitHub | [@Prady029](https://github.com/Prady029) |
-| 💼 LinkedIn | [@prady029](https://linkedin.com/in/prady029) |
-| ✍️ Medium | [@prady029](https://medium.com/@prady029) |
-| 🐦 Twitter/X | [@prady029](https://twitter.com/prady029) |
-| ✈️ Telegram | [@prady029](https://t.me/prady029) |
+</div>
 
 ---
 
-## 🧠 Skills & Technologies
+### Overview
 
-### 🨠 **LLM Training & Inference**
-Full Fine-tuning • PEFT / LoRA / QLoRA • Instruction Tuning • RLHF / DPO • Mixed-precision (bf16/fp16) • Gradient Checkpointing • vLLM • Quantization (GPTQ / AWQ / bitsandbytes) • HuggingFace Transformers • DSPy • Unsloth
-
-### 🕸️ **Agentic & RAG Systems**
-LangChain • LangGraph • LiveKit • Tool-use / Function Calling • Multi-agent Orchestration • Multimodal RAG • Model Context Protocol (MCP) • Google Agent Development Kit • Prompt Engineering
-
-### 👁️ **Knowledge Graphs & Vector Search**
-Neo4j • AWS Neptune • Qdrant • LanceDB • Knowledge Graph Construction • Agentic KG • RxNorm API • PubMed API • Drug Interaction Systems
-
-### ⚙️ **Computer Vision & NLP**
-PyTorch • Detectron2 • YOLOv8 • OpenCV • GradCAM++ • GAN / Synthetic Data • Instance Segmentation • SpaCy • NLTK • ASR Fine-tuning • SWIN2SR • NAFNet
-
-### ☁️ **MLOps & Infrastructure**
-Weights & Biases • MLflow • Docker • FastAPI • Apache Airflow • Apache Spark (Databricks) • ETL Pipeline Design • Process Mining • CI/CD for ML • Git
-
-### ☁️ **Cloud & Databases**
-AWS Bedrock • AWS Neptune • AWS S3 / Lambda / EC2 • AWS OpenSearch • GCP Vertex AI • Azure ML • PostgreSQL • MongoDB • SQLite • Python • SQL • Bash
+- **Currently:** Data Scientist at **Mondee Pvt. Ltd.** (Hyderabad, India) — architecting medical GraphRAG clinical decision support systems, MCP drug-interaction agents, and fine-tuned clinical LLMs & voice models.
+- **Experience:** **5+ years** delivering production AI/ML across **Healthcare** and **Enterprise Finance** (LLM fine-tuning, Knowledge Graphs, Voice AI, Computer Vision, and MLOps).
+- **Collaborations:** Worked alongside research scholars at **IIT Madras** and **IIT Hyderabad**.
+- **Open to:** Senior AI/ML roles, GenAI architecture, and research collaborations.
 
 ---
 
-## 💼 Work Experience
+### Core Stack
 
-### **Data Scientist**
-**Mondee Pvt. Ltd.** | Hyderabad, India | August 2025 – Present
-
-- Architected a medical-grade GraphRAG audio chatbot for clinical decision support system (CDSS) deployed across Surekha Hospital Chain and BhaktiVedant Hospital, constructing structured knowledge graphs from medical textbooks using NER and Neo4J
-- Engineered a drug–drug interaction checker and dosage scheduler agent served through Model Context Protocol (MCP), integrating real-time data from RxNorm and PubMed APIs
-- Led end-to-end fine-tuning and serving of Medgemma-27b-text-it for domain-specific clinical NLP tasks using Unsloth and vLLM, coordinating with research scholars from IIT Madras and IIT Hyderabad
-- Directed large-scale Speech-to-Text (STT/ASR) data preparation and multimodal fine-tuning of gemma-3n-e2b-it via LoRA, building a medical voice agent for real-time clinical transcription
-
-**Tags:** Medical GraphRAG • Clinical NLP • LLM Fine-tuning • Voice AI • Medgemma-27b • MCP
+| Domain | Technologies |
+|---|---|
+| **LLM Training & Inference** | Full Fine-Tuning, PEFT / LoRA / QLoRA, Instruction Tuning, RLHF / DPO, bf16/fp16, vLLM, Quantization (GPTQ / AWQ / bitsandbytes), HuggingFace Transformers, Unsloth, DSPy |
+| **Agentic & RAG Systems** | LangGraph, LangChain, Model Context Protocol (MCP), Google ADK, LiveKit, Multimodal RAG, Function Calling, Multi-Agent Orchestration |
+| **Knowledge Graphs & Search** | Neo4j, AWS Neptune, AWS OpenSearch, Qdrant, LanceDB, RxNorm API, PubMed API, GraphRAG |
+| **Computer Vision & Audio** | PyTorch, Detectron2, YOLOv8, OpenCV, GradCAM++, GANs, SWIN2SR, NAFNet, ASR / Voice Agent Fine-Tuning, Web Audio |
+| **MLOps & Cloud** | AWS (Bedrock, Neptune, Lambda, S3, EC2), GCP Vertex AI, Azure ML, FastAPI, Docker, MLflow, Weights & Biases, Airflow, Spark / Databricks, PostgreSQL, MongoDB |
 
 ---
 
-### **Senior Member Technical (AI/ML)**
-**ADP India Pvt. Ltd.** | Hyderabad, India | December 2023 – July 2025
+### Experience
 
-- Designed and deployed a Knowledge-Graph based RAG pipeline on AWS Neptune & Bedrock orchestrated via LangGraph, enhancing financial data processing accuracy (recognized as runner-up in ADP Global Hackathon 2024)
-- Developed an intelligent Process Mining Chatbot for Global Payroll Services using Microsoft Power Automate and Databricks to optimize payment workflows across 73 payroll cycles per client
-- Engineered an agentic assistant using Google Agent Development Kit and AWS OpenSearch for context-aware email drafting and meeting scheduling, saving 24 hours per user per month
-- Built a scalable QR code detection and decoding pipeline with fine-tuned YOLOv8 and OpenCV, sanitizing financial documents prior to downstream processing across millions of payroll documents
-- Developed an Indic PII detection and redaction system for financial regulatory compliance using fine-tuned NER models and IndicNLP
+#### **Data Scientist** — Mondee Pvt. Ltd. *(Aug 2025 – Present · Hyderabad)*
+- Architected a medical-grade **GraphRAG** audio chatbot for a Clinical Decision Support System (CDSS) deployed across Surekha Hospital Chain and BhaktiVedant Hospital using NER and **Neo4j** knowledge graphs.
+- Engineered a **drug–drug interaction** checker and dosage scheduler served via **Model Context Protocol (MCP)** integrating live RxNorm and PubMed APIs.
+- Led end-to-end fine-tuning and vLLM serving of `Medgemma-27b-text-it` via Unsloth in collaboration with **IIT Madras** and **IIT Hyderabad** scholars.
+- Directed clinical ASR data curation and LoRA multimodal fine-tuning of `gemma-3n-e2b-it` for real-time clinical transcription and Doctor's Note generation.
 
-**Tags:** AWS Neptune • LangGraph • Process Mining • Agentic AI • Finance AI • YOLOv8 • Indic NLP
+#### **Senior Member Technical (AI/ML)** — ADP India Pvt. Ltd. *(Dec 2023 – Jul 2025 · Hyderabad)*
+- Built a Knowledge-Graph RAG pipeline on **AWS Neptune & Bedrock** with LangGraph (**Runner-up, ADP Global Hackathon 2024**).
+- Shipped a **Process Mining Chatbot** with Databricks and Power Automate optimizing workflows across an average of 73 payroll cycles per client.
+- Built an enterprise agentic assistant with Google ADK and AWS OpenSearch rolled out org-wide, saving ~24 hours/user/month.
+- Deployed **YOLOv8 + OpenCV** QR sanitization and **IndicNLP** NER PII redaction across millions of payroll documents across 10+ Indic scripts.
 
----
-
-### **Junior Data Scientist**
-**Claim Genius Pvt. Ltd.** | Remote, India | June 2021 – December 2023
-
-- Built a high-performance Instance Segmentation pipeline using Detectron2 served via FastAPI for vehicle parts identification, achieving 95% mAP and accelerating assessment throughput by 26%
-- Engineered an ML pipeline failure tracing system using MLflow to monitor inference-time distributions and surface root-cause analysis, reducing manual diagnosis time by 30%
-- Deployed an image super-resolution and denoising ensemble combining SWIN2SR and NAFNet models, reducing model failures by 16% and improving downstream accuracy by 12%
-- Built an automatic labeling error-detection service using Scikit-learn confidence scoring and trained PyTorch GAN models for synthetic image generation to resolve class imbalance
-- Designed a geometric flat-tire detection approach with zero curated data and boosted vehicle damage severity classification by 3% through a fusion ensemble combining PyTorch CNN with XGBoost
-
-**Tags:** Detectron2 • FastAPI • GradCAM++ • GAN • Instance Segmentation • MLflow • XGBoost
+#### **Junior Data Scientist** — Claim Genius Pvt. Ltd. *(Jun 2021 – Dec 2023 · Remote)*
+- Delivered a **Detectron2** + FastAPI vehicle parts segmentation pipeline reaching **95% mAP** (+26% throughput) with GradCAM++ interpretability.
+- Built **MLflow** inference drift & failure-tracing pipelines (-30% diagnosis time) and a **SWIN2SR + NAFNet** restoration ensemble (+12% downstream accuracy).
+- Combined PyTorch GAN synthetic augmentation, Scikit-learn label auditing, and CNN + XGBoost fusion ensembles.
 
 ---
 
-## 🎓 Education & Certifications
+### Featured Projects
 
-### **Certifications**
-- 🕸️ **Agentic Knowledge Graph Construction** — DeepLearning.AI × Neo4j (Aug 2025)
-- 🗃️ **Neo4j Fundamentals** — Neo4j GraphAcademy (Jul 2025)
-- 🧠 **Pretraining LLMs** — DeepLearning.AI × Upstage (Feb 2025)
-- 🔧 **TensorFlow Developer Certificate** — Coursera (2023)
-- 🧠 **Deep Learning Specialization** — Coursera (2022)
-- ✨ **An Introduction To Practical Deep Learning** — Intel - Coursera (2022)
-- 💬 **Technical Support Fundamentals** — Google - Coursera (2021)
+| Project | Highlights | Links |
+|---|---|---|
+| **Music Visualiser** | 1st-place house-party vibe-coding winner — live speaker/tab Web Audio visualizer with 14 HiDPI Canvas 2D modes, cymatics physics, and 29 OKLab themes (+ macOS terminal CLI) | [Live App](https://prady029.github.io/Music_Visualiser/) · [Repo](https://github.com/Prady029/Music_Visualiser) |
+| **LLSF** | From-scratch implementation of Label-Specific Feature learning for imbalanced multi-label classification | [Repo](https://github.com/Prady029/LLSF-Learning-Label-Specific-Features-for-Multi-Label-Classifcation) |
+| **LLSF-DL MLSMOTE Hybrid** | Master's thesis — hybrid deep learning + MLSMOTE pipeline for tail-label multi-label classification | [Repo](https://github.com/Prady029/LLSF_DL-MLSMOTE-Hybrid-for-handling-tail-labels) |
+| **LIFT Multi-Label** | Implementation of LIFT label-specific feature transformations | [Repo](https://github.com/Prady029/LIFT-MultiLabel-Learning-with-Label-Specific-Features) |
+| **NCERT AI Teacher Assistant** | Agentic LLM assistant for lesson plans and question generation | [Repo](https://github.com/Prady029/NCERT-AI-Teacher-Assistant) |
+| **Multi-label Datasets** | Curated benchmark collection for multi-label imbalance experiments | [Repo](https://github.com/Prady029/Multillabel-Datasets) |
 
-### **Education**
-- **M.Sc. Computer Science (Big Data Analytics)** — Central University of Rajasthan, Kishangarh, India
-- **Integrated B.Sc. B.Ed. (Physical Sciences and Education)** — Regional Institute of Education (NCERT), Bhubaneswar, India
+> **[View all repositories →](https://github.com/Prady029?tab=repositories)**
 
 ---
 
-## 🔬 Featured Projects
+### Certifications & Education
 
-### [🎵 Music Visualiser](https://github.com/Prady029/Music_Visualiser) ([Live Demo](https://prady029.github.io/Music_Visualiser/))
-1st-place house-party vibe-coding winner — real-time in-browser & macOS terminal audio visualizer with speaker/tab capture, 14 HiDPI Canvas 2D modes, cymatics physics, and 29 perceptual OKLab color themes.
-**Tags:** Web Audio • Canvas 2D • OKLab • JavaScript • Python
+**Certifications**
+- [Agentic Knowledge Graph Construction](https://learn.deeplearning.ai/accomplishments/47fc6775-2474-459c-823f-d9835dff4c92) — DeepLearning.AI × Neo4j *(Aug 2025)*
+- [Building AI Voice Agents for Production](https://learn.deeplearning.ai/accomplishments/576a1433-07cf-43ed-b823-11a6833bcf7c) — DeepLearning.AI × LiveKit *(Jul 2025)*
+- [Neo4j Fundamentals](https://graphacademy.neo4j.com/c/cd58c648-ed44-4417-9432-45593d54d65f/) — Neo4j GraphAcademy *(Jul 2025)*
+- [Pretraining LLMs](https://learn.deeplearning.ai/accomplishments/4e81d8a9-58e3-4e21-bf4c-eb6591b7057c) — DeepLearning.AI × Upstage *(Feb 2025)*
+- [TensorFlow Developer Certificate](https://coursera.org/share/416c0c85f67457b5b242f15f63cd6814) — Coursera *(2023)* · [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/R3ZCXXTTVHS8) *(2022)* · [Intel Practical Deep Learning](https://coursera.org/share/9fc0954c13722812bc98b54f03647fef) *(2022)*
 
-### [🌟 LLSF: Learning Label-Specific Features](https://github.com/Prady029/LLSF-Learning-Label-Specific-Features-for-Multi-Label-Classifcation)
-Research paper implementation for improving multi-label classification on imbalanced datasets using the Label-Specific Feature learning algorithm.
-**Tags:** Multi-label • Feature Learning • Class Imbalance • Python
-
-### [🧬 LLSF-DL MLSMOTE Hybrid](https://github.com/Prady029/LLSF_DL-MLSMOTE-Hybrid-for-handling-tail-labels)
-Master's thesis — hybrid deep learning approach combining Label-Specific Feature learning with MLSMOTE to address tail-labels in multi-label classification.
-**Tags:** Multi-label • Deep Learning • SMOTE • Thesis
-
-### [🏋️ LIFT: Multi-Label Learning](https://github.com/Prady029/LIFT-MultiLabel-Learning-with-Label-Specific-Features)
-Implementation of the LIFT algorithm for label-specific feature transformations to improve multi-label classification performance.
-**Tags:** Multi-label • Feature Learning • Classification • Python
-
-### [📚 NCERT AI Teacher Assistant](https://github.com/Prady029/NCERT-AI-Teacher-Assistant)
-AI-powered assistant for teachers that automatically creates lesson plans, drafts question sets, and supports classroom preparation workflows.
-**Tags:** GenAI • Education • AI • LLM • Agentic • Python
-
-### [📊 Multi-label Datasets](https://github.com/Prady029/Multillabel-Datasets)
-Curated collection of multi-label classification benchmarks used across research experiments on label imbalance, feature learning, and SMOTE-based augmentation.
-**Tags:** Dataset • Multi-label • Research • Python
-
-### [🔀 Fuzzy Computing Programs](https://github.com/Prady029/Fuzzy_programs)
-Implementations of fuzzy sets, fuzzy logic inference systems, and fuzzy control applications from the Fuzzy Computing course at CURAJ.
-**Tags:** Fuzzy Logic • Control Systems • Academic • Jupyter
-
-### [🌱 Early Days of Machine Learning](https://github.com/Prady029/My-early-days-of-machine-learning)
-Collection of ML algorithm implementations from 2018 — supervised learning, unsupervised learning, and regression techniques built from first principles.
-**Tags:** Machine Learning • Scikit-learn • Foundations • Jupyter
-
-### [🧩 DSA 101](https://github.com/Prady029/DSA_101)
-Ongoing journey through Data Structures and Algorithms — curated problem sets, solutions, and notes in Python.
-**Tags:** DSA • Python • Problem Solving
-
-**[→ View All Repositories on GitHub](https://github.com/Prady029)**
+**Education**
+- **M.Sc. Computer Science (Big Data Analytics)** — Central University of Rajasthan
+- **Integrated B.Sc. B.Ed. (Physical Sciences & Education)** — Regional Institute of Education (NCERT), Bhubaneswar
 
 ---
 
-## ✍️ Latest Articles
+### Selected Writing
 
-Deep-dives into ML research, audio source separation, and multilingual NLP published on Medium and Analytics Drift.
-
-- [Salesforce Uses AWS Textract For Intelligent Document Automation](https://analyticsdrift.com/salesforce-uses-aws-textract-for-intelligent-document-automation/)
 - [Extracting Vocals And Instrumentals From Music The Deep Learning Way](https://analyticsdrift.com/extracting-vocals-and-instrumentals-from-music-the-deep-learning-way/)
-- [Microsoft Speller100: A Spell-Checker For Over 100 Languages](https://analyticsdrift.com/microsoft-speller100-a-spell-checker-for-over-100-languages/)
-- [A Deep Dive Into IBM Quantum Roadmap](https://analyticsdrift.com/a-deep-dive-into-ibm-quantum-roadmap/)
-- [IIT Kanpur Offers Free 8-Weeks Computational Science Course](https://analyticsdrift.com/iit-kanpur-offers-free-8-weeks-computational-science-course-enrollments-ends-15th-feb/)
-- [Dealing With Racially-Biased Hate-Speech Detection Models](https://analyticsdrift.com/dealing-with-racially-biased-hate-speech-detection-models/)
+- [Concept-Whitening For Interpreting Neural Networks At Ease](https://analyticsdrift.com/concept-whitening-for-interpreting-neural-networks-at-ease/)
+- [Facebook Releases Code Of Its State-Of-The-Art Voice Separation Model](https://analyticsdrift.com/facebook-releases-code-of-its-state-of-the-art-voice-separation-model/)
+- [Microsoft's DeBERTa Surpasses Humans On Natural Language Understanding](https://analyticsdrift.com/microsofts-deberta-surpasses-humans-on-natural-language-understanding/)
 
-**[→ View All 42+ Articles on AnalyticsDrift](https://analyticsdrift.com/author/pradyumna-sahoo/)**
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prady029&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prady029&theme=dark&hide_border=false)
+**[Read 42+ articles on AnalyticsDrift →](https://analyticsdrift.com/author/pradyumna-sahoo/)**
 
 ---
 
-## 🚀 What I'm Currently Working On
+<div align="center">
 
-- 🔭 Building production-grade GraphRAG pipelines for medical question-answering systems
-- 🧠 Fine-tuning domain-specific LLMs for healthcare and financial applications
-- 🤖 Developing multimodal agentic systems with voice and vision capabilities
-- 📚 Contributing to open-source ML/AI projects
-- ✍️ Writing technical deep-dives on LLMs, knowledge graphs, and production ML systems
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prady029&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prady029&theme=tokyonight&hide_border=true&background=0d1117)
 
----
-
-## 💬 Let's Connect!
-
-I'm always excited to discuss:
-- **GenAI & LLM** applications and fine-tuning strategies
-- **Medical AI** and healthcare tech innovations
-- **Production ML/MLOps** architectures at scale
-- **Career opportunities** in AI/ML engineering
-- **Research collaborations** and open-source contributions
-
-Feel free to reach out on LinkedIn, Twitter, or email me directly!
-
----
-
-**Built with ❤️ by Pradyumna Kumar Sahoo | [Portfolio](https://prady029.github.io) | [Resume](https://prady029.github.io/Pradyumna_Data_Scientist_AI_ML_5YoE.pdf)**
+</div>
