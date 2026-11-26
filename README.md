@@ -104,6 +104,10 @@ AWS Bedrock • AWS Neptune • AWS S3 / Lambda / EC2 • AWS OpenSearch • GCP
 
 ## 🔬 Featured Projects
 
+### [🎵 Music Visualiser](https://github.com/Prady029/Music_Visualiser) ([Live Demo](https://prady029.github.io/Music_Visualiser/))
+1st-place house-party vibe-coding winner — real-time in-browser & macOS terminal audio visualizer with speaker/tab capture, 14 HiDPI Canvas 2D modes, cymatics physics, and 29 perceptual OKLab color themes.
+**Tags:** Web Audio • Canvas 2D • OKLab • JavaScript • Python
+
 ### [🌟 LLSF: Learning Label-Specific Features](https://github.com/Prady029/LLSF-Learning-Label-Specific-Features-for-Multi-Label-Classifcation)
 Research paper implementation for improving multi-label classification on imbalanced datasets using the Label-Specific Feature learning algorithm.
 **Tags:** Multi-label • Feature Learning • Class Imbalance • Python
