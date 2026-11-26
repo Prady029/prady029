@@ -91,17 +91,6 @@ Building production GraphRAG systems, fine-tuned clinical LLMs, multimodal voice
 
 ---
 
-### Selected Writing
-
-- [Extracting Vocals And Instrumentals From Music The Deep Learning Way](https://analyticsdrift.com/extracting-vocals-and-instrumentals-from-music-the-deep-learning-way/)
-- [Concept-Whitening For Interpreting Neural Networks At Ease](https://analyticsdrift.com/concept-whitening-for-interpreting-neural-networks-at-ease/)
-- [Facebook Releases Code Of Its State-Of-The-Art Voice Separation Model](https://analyticsdrift.com/facebook-releases-code-of-its-state-of-the-art-voice-separation-model/)
-- [Microsoft's DeBERTa Surpasses Humans On Natural Language Understanding](https://analyticsdrift.com/microsofts-deberta-surpasses-humans-on-natural-language-understanding/)
-
-**[Read 42+ articles on AnalyticsDrift →](https://analyticsdrift.com/author/pradyumna-sahoo/)**
-
----
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prady029&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117)
